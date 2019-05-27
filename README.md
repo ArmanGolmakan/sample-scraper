@@ -23,9 +23,12 @@
  
  `$(":focus") — selects the element that currently has focus`
 
-`
+
 to debug using chrome dev tool:
-`node --inspect server.js`
+
+node --inspect server.js
+
 in chrome tab: type `chrome://inspect`
+
 click: Open deciated dev tools for node
-`
+
