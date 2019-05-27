@@ -1,7 +1,5 @@
 # sample-scraper
 Basic template file for scraping webpages with NodeJs
-
-
 $("*") — selects all elements
 $("#first") — selects the element with id="first"
 $(".intro") — selects all elements with class="intro"
