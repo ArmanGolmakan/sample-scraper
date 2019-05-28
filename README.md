@@ -33,6 +33,7 @@ to debug using chrome dev tool:
 in chrome tab: `chrome://inspect`
 
 click: `Open deciated dev tools for node`
+
 <br/>
 
-Cheerio implements the core of jQuery designed for the server.
+_Cheerio_ implements the core of jQuery designed for the server.
