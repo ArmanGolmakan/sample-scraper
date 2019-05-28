@@ -1,3 +1,4 @@
+###Template project for basic web scraping using: Node, Express, Cheerio
 
 
 
@@ -22,15 +23,8 @@
  `$(":empty") — selects all elements that are empty`
  
  `$(":focus") — selects the element that currently has focus`
-
-
-
-<br/><br/><br/>
-
-
-
-
-
+ 
+<br/><br/>
 
 to debug using chrome dev tool:
 
@@ -39,4 +33,6 @@ to debug using chrome dev tool:
 in chrome tab: `chrome://inspect`
 
 click: `Open deciated dev tools for node`
+<br/>
 
+Cheerio implements the core of jQuery designed for the server.
